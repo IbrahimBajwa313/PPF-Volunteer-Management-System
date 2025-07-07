@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "PPF Volunteer Management Platform",
   description: "Volunteer & Campaign Management System for PPF Fsd",
-    generator: 'v0.dev'
+    generator: 'Ibrahim Bajwa'
 }
 
 export default function RootLayout({
